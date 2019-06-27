@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,700,800,900');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index.scss';
+
+// Font awesome
+@import '~font-awesome/scss/font-awesome';
+
+// Custom
+@import 'mixins';
+@import 'footer';
+@import 'header';
+@import 'general';
+@import 'forms';
+@import 'elements';
+

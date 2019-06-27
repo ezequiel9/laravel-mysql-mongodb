@@ -1,0 +1,36 @@
+//
+html, body{
+}
+a, a.btn-link{
+    color: $dark;
+    font-weight: 600;
+    @include animate();
+    &:hover{
+        color: $indigo;
+        text-decoration: none;
+    }
+}
+
+.btn {
+    border-radius: 0;
+    border: none;
+    &.btn-primary{
+        background-color: $indigo;
+        &:hover{
+            background-color: $darkindigo;
+        }
+    }
+}
+.card{
+    box-shadow: 2px 2px 4px 1px $lightgray;
+    border: 1px solid $lightgray;
+    .card-header{
+        background: $indigo;
+        color: white;
+        font-size: 16px;
+    }
+}
+.was-validated.form-control:invalid,
+.form-control.is-invalid {
+    border-color: $lightred;
+}
