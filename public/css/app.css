@@ -15262,7 +15262,7 @@ input[type=color].form-control:disabled {
 
 #app .load-more {
   width: 100%;
-  background: #6574cd;
+  background: #47498D;
   padding: 15px;
   text-align: center;
   color: white;
@@ -15272,11 +15272,11 @@ input[type=color].form-control:disabled {
 }
 
 #app .home-slider-container {
-  background: #6574cd;
+  background: #47498D;
 }
 
 #app .home-slider-container .jumbotron {
-  background: #6574cd;
+  background: #47498D;
   color: #fff;
 }
 
@@ -15422,7 +15422,7 @@ a.btn-link {
 
 a:hover,
 a.btn-link:hover {
-  color: #6574cd;
+  color: #47498D;
   text-decoration: none;
 }
 
@@ -15432,7 +15432,7 @@ a.btn-link:hover {
 }
 
 .btn.btn-primary {
-  background-color: #6574cd;
+  background-color: #47498D;
 }
 
 .btn.btn-primary:hover {
@@ -15445,7 +15445,7 @@ a.btn-link:hover {
 }
 
 .card .card-header {
-  background: #6574cd;
+  background: #47498D;
   color: white;
   font-size: 16px;
 }

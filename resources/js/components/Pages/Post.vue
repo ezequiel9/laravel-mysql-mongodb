@@ -50,6 +50,7 @@
 </template>
 
 <script>
+
     import search from './../Common/Search'
     import categories from './../Common/Categories'
     import widget from './../Common/Widget'
@@ -68,6 +69,10 @@
             related_posts : {
                 default: [],
                 type: Array
+            },
+            user : {
+                default: null,
+                type: Object
             }
         },
         data() {

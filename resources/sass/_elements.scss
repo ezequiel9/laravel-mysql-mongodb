@@ -6,7 +6,7 @@ a, a.btn-link{
     font-weight: 600;
     @include animate();
     &:hover{
-        color: $indigo;
+        color: $main-color;
         text-decoration: none;
     }
 }
@@ -15,7 +15,7 @@ a, a.btn-link{
     border-radius: 0;
     border: none;
     &.btn-primary{
-        background-color: $indigo;
+        background-color: $main-color;
         &:hover{
             background-color: $darkindigo;
         }
@@ -25,7 +25,7 @@ a, a.btn-link{
     box-shadow: 2px 2px 4px 1px $lightgray;
     border: 1px solid $lightgray;
     .card-header{
-        background: $indigo;
+        background: $main-color;
         color: white;
         font-size: 16px;
     }
