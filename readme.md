@@ -10,11 +10,11 @@
 - you may need to create an uploads folder on -> public/uploads
 
 After seed you will have a few users but two of them will be administrators:
-Email: example@test.com
-Password: secret
+- Email: example@test.com
+- Password: secret
 
-Email: ezequiel@test.com
-Password: secret
+- Email: ezequiel@test.com
+- Password: secret
 
 
 ## Details
