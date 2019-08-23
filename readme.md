@@ -19,13 +19,13 @@ Password: secret
 
 ## Details
 
-Laravel 5.8
-Vue.js - vuex
-Mysql (Users)
-MongoDB (Posts)
-Vuex
-Bootstrap 4
-Font-awesome
+- Laravel 5.8
+- Vue.js - vuex
+- Mysql (Users)
+- MongoDB (Posts) https://github.com/jenssegers/laravel-mongodb
+- Vuex
+- Bootstrap 4
+- Font-awesome
 
 ## Admin area
 /admin
